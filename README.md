@@ -25,10 +25,10 @@ Este script foi desenvolvido em R e depende dos seguintes pacotes:
 ## Exemplos de Resultados
 
 ### Gráfico 1
-![Gráfico de Previsão 1](https://github.com/Emannuel-Cavalcante/portifolio/assets/1)
+![Gráfico de Previsão 1](![1](https://github.com/user-attachments/assets/6fe36447-591f-489b-af40-335277302cfe)
 
 ### Gráfico 2
-![Gráfico de Previsão 2](https://github.com/Emannuel-Cavalcante/portifolio/assets/2)
+![Gráfico de Previsão 2](![2](https://github.com/user-attachments/assets/2a9e9515-7734-4fca-8b28-f631ba7d6cbf)
 
 ### Saídas no Terminal das Métricas de Desempenho
 
